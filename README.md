@@ -3,6 +3,7 @@
 This blockchain project was done as part of "Python, JS & React | Build a Blockchain & Cryptocurrency" course by David Joseph Katz, you can check the course at: https://www.udemy.com/course/python-js-react-blockchain/?couponCode=ST21MT121624
 
 ![image](https://github.com/guilhermecom2s/BlockchainProject/blob/master/img/blockchain_frontPage.png)
+![image](https://github.com/guilhermecom2s/BlockchainProject/blob/master/img/blockchain.png)
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 Bellow are the commands to use when running the project.
@@ -53,18 +54,18 @@ python -m backend.app
 
 Make sure to activate the virtual environment.
 
-´´´
+```
 set PEER=True
 python -m backend.app
-´´´
+```
 
 **Run the frontend**
 
 In the frontend directory:
 
-´´´
+```
 npm run start
-´´´
+```
 
 **Seed the backend with data**
 
