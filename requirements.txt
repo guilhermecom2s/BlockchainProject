@@ -1,0 +1,6 @@
+pytest==7.4.3
+Flask==3.0.0
+pubnub==4.1.6
+requests==2.22.0
+cryptography==41.0.7
+Flask-Cors-3.0.8
