@@ -1,6 +1,7 @@
 **About**
 This blockchain project was done as part of "Python, JS & React | Build a Blockchain & Cryptocurrency" course by David Joseph Katz, you can check the course at: https://www.udemy.com/course/python-js-react-blockchain/?couponCode=ST21MT121624
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 **Activate the virtual environment**
 
