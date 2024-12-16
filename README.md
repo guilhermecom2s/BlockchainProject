@@ -1,3 +1,7 @@
+**About**
+This blockchain project was done as part of "Python, JS & React | Build a Blockchain & Cryptocurrency" course by David Joseph Katz, you can check the course at: https://www.udemy.com/course/python-js-react-blockchain/?couponCode=ST21MT121624
+
+
 **Activate the virtual environment**
 
 ```
@@ -18,7 +22,6 @@ python3 -m backend.blockchain.block
 ```
 
 **TODO**
-
 ```
 -> create another function that changes the hash based in the given order
 -> use the "^" instead of "" to avoid generating same hashs in different values
